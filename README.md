@@ -41,7 +41,13 @@ The internship is designed to strengthen foundational knowledge in cloud infrast
 - Alert rules configured
 - Metrics dashboard created
 
-📂 [`/Task2_Monitoring`](./Task2_Monitoring)
+📂 [`/Task2_Monitoring`](./Task2_Monitoring)![TASK-2-SS-1 1](https://github.com/user-attachments/assets/912c122d-0a9a-47fe-acd6-eab642fe5cc1)
+📂 [`/Task2_Monitoring`](./Task2_Monitoring)![TASK-2-SS-2 1](https://github.com/user-attachments/assets/3a235ee8-e79b-4ce3-af1a-5e4cdd305658)
+📂 [`/Task2_Monitoring`](./Task2_Monitoring)![TASK-2-SS-3 1](https://github.com/user-attachments/assets/36bddaf5-e497-41a0-b0a9-9ad3cd413e5d)
+📂 [`/Task2_Monitoring`](./Task2_Monitoring)![TASK-2-SS-4 1](https://github.com/user-attachments/assets/3fd99ac2-2e05-4339-b6da-8067170965f7)
+📂 [`/Task2_Monitoring`](./Task2_Monitoring)![TASK-2-SS-5 1](https://github.com/user-attachments/assets/a03bca66-992e-4a21-aad0-aaa1454724f8)
+
+
 
 ---
 
@@ -79,9 +85,13 @@ The internship is designed to strengthen foundational knowledge in cloud infrast
 - Encryption setup
 - Security configuration report
 
-📂 [`/Task4_CloudSecurity`](./Task4_MultiCloud)
-
-
+📂 [`/Task4_CloudSecurity`](./Task4_MultiCloud)![Screenshot 2025-06-01 104422](https://github.com/user-attachments/assets/9982adfb-8eba-413b-98f4-be13eda89076)
+📂 [`/Task4_CloudSecurity`](./Task4_MultiCloud)![Screenshot 2025-06-01 104611](https://github.com/user-attachments/assets/d8d6623f-546d-4192-abbd-cb376bc46ed6)
+📂 [`/Task4_CloudSecurity`](./Task4_MultiCloud)![Screenshot 2025-06-01 104734](https://github.com/user-attachments/assets/83d2900b-46e4-4684-a08d-0ed4176ee340)
+📂 [`/Task4_CloudSecurity`](./Task4_MultiCloud)![Screenshot 2025-06-01 105403](https://github.com/user-attachments/assets/e778eb32-abc5-4d0d-b675-41341ea66bdb)
+📂 [`/Task4_CloudSecurity`](./Task4_MultiCloud)![Screenshot 2025-06-01 104808](https://github.com/user-attachments/assets/b740fa06-2c8e-4d4f-868a-478561b32434)
+📂 [`/Task4_CloudSecurity`](./Task4_MultiCloud)![Screenshot 2025-06-01 104826](https://github.com/user-attachments/assets/25c2e4d2-7cbb-45da-9e66-adb56aade6af)
+📂 [`/Task4_CloudSecurity`](./Task4_MultiCloud)![Screenshot 2025-06-01 104838](https://github.com/user-attachments/assets/631a6bf1-44f1-43a4-b350-d55516bbbb26)
 
 
 
