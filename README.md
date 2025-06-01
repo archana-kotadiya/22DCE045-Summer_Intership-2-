@@ -1,4 +1,4 @@
-![Screenshot 2025-05-31 123104 1](https://github.com/user-attachments/assets/bc0778e4-128b-470c-a84d-3d0ab513dbd6)# ☁️ Cloud Computing Internship Tasks – CODTECH
+# ☁️ Cloud Computing Internship Tasks – CODTECH
 
 Welcome to my Cloud Computing Internship repository under **CODTECH**! This repository contains all four mandatory tasks that showcase my hands-on experience with real-world cloud services and tools like **AWS**, **Google Cloud**, and **Azure**.
 
